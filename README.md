@@ -1,3 +1,4 @@
+```
 PS C:\Users\lab.one\Documents\GitHub\Wikipedia> python3 .\request_authors.py
  ____  _             __      _          _     ____      _
 / ___|(_) ___  __ _ / _|_ __(_) ___  __| |   / ___| ___| |__  ___  ___ _ __
@@ -60,3 +61,4 @@ Authors of the Wikipedia page:
 +-----------------+----------------------+
 | Miltrak         | 2015-09-25T18:43:18Z |
 +-----------------+----------------------+
+```
